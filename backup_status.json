@@ -1,0 +1,85 @@
+{
+  "last_run": "2026-04-23T14:28:25.441Z",
+  "sites": [
+    {
+      "domain": "selnhelp.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "bati-ce.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "mairie-vimpelles.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "connexion echouee"
+    },
+    {
+      "domain": "lead-portage.com",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "entreprendre-encore.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "autismeenidf.org",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "darwin.legal",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "draveil-handball.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "isytem.com",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    },
+    {
+      "domain": "labuoncom.fr",
+      "status": "error",
+      "last_backup": null,
+      "size_mb": null,
+      "file": null,
+      "error": "telechargement echoue"
+    }
+  ]
+}
